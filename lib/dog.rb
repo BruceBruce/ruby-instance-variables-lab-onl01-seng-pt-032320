@@ -1,4 +1,5 @@
 class Dog
   lassie = Dog.new 
-  puts lassie
+  lassie.name = "Lassie"
+  lassie.name
 end
